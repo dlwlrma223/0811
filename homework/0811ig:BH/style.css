@@ -17,6 +17,9 @@
   text-align: center;
 }
 
+.forgot {
+  font-size: 10px;
+}
 #ac,
 #pw {
   width: 300px;
@@ -25,7 +28,7 @@
 }
 
 .botton {
-  background-color: skyblue;
+  background-color: #3578e5;
   margin: 15px 30px;
   height: 35px;
   color: white;
