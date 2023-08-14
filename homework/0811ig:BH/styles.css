@@ -1,0 +1,44 @@
+* {
+  color: #000080;
+}
+
+.all {
+  display: flex;
+  flex-direction: column;
+}
+
+.table {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+.table p {
+  font-size: 10px;
+}
+
+.head p {
+  text-align: center;
+  line-height: 1px;
+  font-size: 14px;
+}
+
+.ul1,
+.ul2 {
+  margin-left: 20px;
+  margin-bottom: 40px;
+}
+
+.main {
+  text-align: center;
+  line-height: 0px;
+  font-size: 13px;
+}
+
+.end {
+  font-size: 13px;
+}
+
+.last {
+  font-size: 13px;
+}
